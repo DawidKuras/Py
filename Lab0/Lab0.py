@@ -45,3 +45,42 @@
 # else:
 #     x = -b/a
 #     print('x =', x)
+
+#zadanie dodatkowe 2
+
+# import  math
+#
+# print("bedziemy liczyc pole trojkta o bokach a, b, c")
+#
+# a = float(input("podaj a"))
+# b = float(input("podaj b"))
+# c = float(input("podaj c"))
+#
+# print("bok a:",a)
+# print("bok b:",b)
+# print("bok c:",c)
+#
+# p = (a+b+c)/2
+#
+# P = math.sqrt(p*(p-a) * (p-b) * (p-c))
+# print("Pole trojkota wynosi: ",P)
+
+
+#zadanie dodatkowe 3
+#
+# x = float(input("Podaj pierwsza liczbe:"))
+# y = float(input("Podaj druga liczbe:"))
+# z = input("jakigo zznaku chcesz uzyc(+,-,*,/,)")
+#
+# op= {"+": x+y, "-": x-y, "*": x*y, "/": x/y}
+#
+# if z == "+":
+#     print(op["+"])
+# elif z == "-":
+#     print(op["-"])
+# elif z == "*":
+#     print(op["*"])
+# elif z == "/":
+#     print(op["/"])
+
+
