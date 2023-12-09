@@ -44,10 +44,10 @@
 # q = int(input("podaj liczbe n "))
 # a = int(input("pierwszy wyraz ciagu "))
 # r = int(input("róznica ciagu "))
-# w=0
+# n = 0
 # for i in range(1,q+1):
-#     w = a + (i - 1) * r
-#     print(w)
+#     n = a + (i - 1) * r
+#     print(n)
 
 #zad5
 #
